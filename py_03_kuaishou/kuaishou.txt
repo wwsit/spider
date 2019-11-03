@@ -1,0 +1,180 @@
+{'name': '英雄联盟', 'room_name': '英雄联盟的直播间', 'room_url': 'https://live.kuaishou.com/u/lol1314666', 'game_name': '英雄联盟'}
+{'name': 'PEL和平精英职业联赛', 'room_name': '2019PEL和平精英职业联赛', 'room_url': 'https://live.kuaishou.com/u/3x4546nfkivjsxe', 'game_name': '和平精英'}
+{'name': 'CHEN天赐〽️王者荣耀', 'room_name': '单排撩妹连胜每把15头', 'room_url': 'https://live.kuaishou.com/u/tianci666', 'game_name': '王者荣耀'}
+{'name': '黄二狗★和平精英', 'room_name': '迟到了...', 'room_url': 'https://live.kuaishou.com/u/JJbeng77', 'game_name': '和平精英'}
+{'name': '和平精英12阳', 'room_name': '单人四排 马上战神了', 'room_url': 'https://live.kuaishou.com/u/JiuYang6666', 'game_name': '和平精英'}
+{'name': '和平精英真路🐂', 'room_name': '喜提黄金风衣', 'room_url': 'https://live.kuaishou.com/u/ZhenLu996', 'game_name': '和平精英'}
+{'name': 'QQ飞车海棠（老声优）', 'room_name': '中午直播棠', 'room_url': 'https://live.kuaishou.com/u/XuanFeng12138', 'game_name': 'QQ飞车手游'}
+{'name': '三阳:绝地求生情感NJ', 'room_name': '来呀', 'room_url': 'https://live.kuaishou.com/u/3x6hdrttyupy5bc', 'game_name': '绝地求生'}
+{'name': '王者荣耀林度 三万战火舞', 'room_name': '王者局单排操作意识秀', 'room_url': 'https://live.kuaishou.com/u/LLLYYY666999', 'game_name': '王者荣耀'}
+{'name': '王者荣耀冠宇『B+』', 'room_name': '国服号巅峰赛冲国一干将', 'room_url': 'https://live.kuaishou.com/u/guanyu2333', 'game_name': '王者荣耀'}
+{'name': '小七-火影忍者疾风传', 'room_name': '你强任你强~小七来称王~', 'room_url': 'https://live.kuaishou.com/u/xiaoqiaihuoying', 'game_name': '火影忍者'}
+{'name': '婷儿王者荣耀💫全能王', 'room_name': '英雄池输一局学猫叫', 'room_url': 'https://live.kuaishou.com/u/atinger66', 'game_name': '王者荣耀'}
+{'name': '王者荣耀如风《国服关羽》', 'room_name': '王者局排位赛一把不输', 'room_url': 'https://live.kuaishou.com/u/RuFengFeng', 'game_name': '王者荣耀'}
+{'name': '阿林🏅绝地求生和平精英', 'room_name': '阿林来晚了', 'room_url': 'https://live.kuaishou.com/u/3xd9xd45hzynae4', 'game_name': '和平精英'}
+{'name': 'JJ斗地主', 'room_name': 'JJ斗地主冠军杯', 'room_url': 'https://live.kuaishou.com/u/jjworld126', 'game_name': 'JJ斗地主'}
+{'name': '机灵鬼呆萌和平精英', 'room_name': '呆萌五指第45天', 'room_url': 'https://live.kuaishou.com/u/sjzqxiaoyue', 'game_name': '和平精英'}
+{'name': '王者荣耀启明【全能王】', 'room_name': '连胜号继续干', 'room_url': 'https://live.kuaishou.com/u/qiming188', 'game_name': '王者荣耀'}
+{'name': '和平精英 可与（林梦）', 'room_name': '可与被关小黑屋了', 'room_url': 'https://live.kuaishou.com/u/ff003729', 'game_name': '和平精英'}
+{'name': 'Joi-脚脚💫和平精英', 'room_name': '脚脚装小姐姐~', 'room_url': 'https://live.kuaishou.com/u/ID1000011', 'game_name': '其他'}
+{'name': '小十七💫和平精英', 'room_name': '无情', 'room_url': 'https://live.kuaishou.com/u/Chenshiqizuishuai', 'game_name': '和平精英'}
+{'name': '寒冰和平精英（刚枪之冰）', 'room_name': '寒公子高端局1V4', 'room_url': 'https://live.kuaishou.com/u/A1994822', 'game_name': '和平精英'}
+{'name': '王者荣耀秋笙「蝉帝貂蝉」', 'room_name': '冲刺全国第一就差几局', 'room_url': 'https://live.kuaishou.com/u/mauc-6767', 'game_name': '王者荣耀'}
+{'name': '英雄联盟李青丶御天文哥', 'room_name': '御天文哥无线火力盲僧秀', 'room_url': 'https://live.kuaishou.com/u/Leesin_666', 'game_name': '英雄联盟'}
+{'name': '王者荣耀小艾', 'room_name': '带粉上分新的养猪方法无敌', 'room_url': 'https://live.kuaishou.com/u/3xsey959k2h932y', 'game_name': '王者荣耀'}
+{'name': '骚晨🍓单机游戏', 'room_name': '网吧开业了', 'room_url': 'https://live.kuaishou.com/u/mumu6666668', 'game_name': '主机新游'}
+{'name': '小黄蜂⚜️游戏直播', 'room_name': '挑战生存100天！', 'room_url': 'https://live.kuaishou.com/u/tiansen666666', 'game_name': '其他'}
+{'name': '小恶魔👿游戏直播', 'room_name': '大战鲨鱼王直播中···', 'room_url': 'https://live.kuaishou.com/u/emo12345678', 'game_name': '迷你世界'}
+{'name': '王者荣耀慕白【国服木兰】', 'room_name': '巅峰三国服冲鸭', 'room_url': 'https://live.kuaishou.com/u/xf20020806', 'game_name': '王者荣耀'}
+{'name': '王者荣耀月神【皮皮京】', 'room_name': '大家下午好鸭 想看啥英雄', 'room_url': 'https://live.kuaishou.com/u/YUE99999', 'game_name': '王者荣耀'}
+{'name': 'ANBK和平精英-神弩门', 'room_name': '小姐姐们呢', 'room_url': 'https://live.kuaishou.com/u/W1360247662', 'game_name': '和平精英'}
+{'name': '英雄联盟上上-挽离', 'room_name': '亚洲棋王！', 'room_url': 'https://live.kuaishou.com/u/shangshang7777777777', 'game_name': '英雄联盟'}
+{'name': '平底锅·和平精英 石头哥', 'room_name': '平底锅集合', 'room_url': 'https://live.kuaishou.com/u/mengen1996', 'game_name': '和平精英'}
+{'name': '大话西游2贤哥华强', 'room_name': '大话西游2贤哥', 'room_url': 'https://live.kuaishou.com/u/e19920405', 'game_name': '新大话西游2'}
+{'name': '墨言【热游直播】', 'room_name': '开网吧营业的第一天', 'room_url': 'https://live.kuaishou.com/u/KS-moyan666', 'game_name': '主机新游'}
+{'name': '王者荣耀可可\U0001f9da（舜家）', 'room_name': '帮大哥上荣耀', 'room_url': 'https://live.kuaishou.com/u/Maomao0713', 'game_name': '王者荣耀'}
+{'name': '王者荣耀蓝尢『最飘露娜』', 'room_name': '蓝尢露娜', 'room_url': 'https://live.kuaishou.com/u/lanyouzuiku', 'game_name': '王者荣耀'}
+{'name': '瓜瓜🍉火影忍者搞笑解说', 'room_name': '宇智波瓜瓜', 'room_url': 'https://live.kuaishou.com/u/paopaoya666', 'game_name': '火影忍者'}
+{'name': '散人无影cf手游和平精英', 'room_name': '新领的刀单挑来吧', 'room_url': 'https://live.kuaishou.com/u/a150842222', 'game_name': 'CF手游'}
+{'name': '苏苏和平精英', 'room_name': '苏无情', 'room_url': 'https://live.kuaishou.com/u/SuSu75666', 'game_name': '和平精英'}
+{'name': '彪哥讲棋 象棋套路第一人', 'room_name': '不进来后悔一辈子', 'room_url': 'https://live.kuaishou.com/u/bgjq5201314', 'game_name': '中国象棋'}
+{'name': '小鱼主播', 'room_name': '家被BOSS抄了', 'room_url': 'https://live.kuaishou.com/u/3xcngzihd3xb93k', 'game_name': '其他'}
+{'name': '乐洋（绝地求生）', 'room_name': 'Win94猛男洋', 'room_url': 'https://live.kuaishou.com/u/ksyangzai123', 'game_name': '绝地求生'}
+{'name': '传奇世界路西法', 'room_name': '秋雨复古', 'room_url': 'https://live.kuaishou.com/u/lin358700', 'game_name': '传奇世界'}
+{'name': '加丽宝（绝地求生）', 'room_name': '赢猫粮啦', 'room_url': 'https://live.kuaishou.com/u/Jialibao66', 'game_name': '绝地求生'}
+{'name': '六阳:绝地求生', 'room_name': '路人四排', 'room_url': 'https://live.kuaishou.com/u/3x6ct5nmfqws69s', 'game_name': '绝地求生'}
+{'name': '王者荣耀浅可【国服阿轲】', 'room_name': '浅可国一阿柯', 'room_url': 'https://live.kuaishou.com/u/qianke8888', 'game_name': '王者荣耀'}
+{'name': '玖玖绝地玖菜花', 'room_name': '快乐~', 'room_url': 'https://live.kuaishou.com/u/jiu9999r', 'game_name': '绝地求生'}
+{'name': '和平精英陌煞', 'room_name': '皮皮煞的S686来咯！', 'room_url': 'https://live.kuaishou.com/u/Ms336789', 'game_name': '和平精英'}
+{'name': '🔥北棋王精讲象棋🔥', 'room_name': '跑车挂，百元连', 'room_url': 'https://live.kuaishou.com/u/xiangqixiaoli666', 'game_name': '娱乐'}
+{'name': '子傲（方舟和平精英）', 'room_name': '征战海贼服', 'room_url': 'https://live.kuaishou.com/u/3xntm8k8v2nvdjw', 'game_name': '方舟'}
+{'name': '象棋少帅峰☀亮证第一人', 'room_name': '看象甲 聊人生 瓜子备好', 'room_url': 'https://live.kuaishou.com/u/LBL6666777', 'game_name': '其他手游'}
+{'name': '传奇神途直播中（互）', 'room_name': '首战首区速度来战', 'room_url': 'https://live.kuaishou.com/u/3xqyhd3jhyszxns', 'game_name': '神途'}
+{'name': '神途传奇手游–无情', 'room_name': '新区开了', 'room_url': 'https://live.kuaishou.com/u/3x7u2vae244vg62', 'game_name': '神途'}
+{'name': '神途传奇直播中（互）', 'room_name': '新战区首区', 'room_url': 'https://live.kuaishou.com/u/cxz52020', 'game_name': '传奇世界'}
+{'name': '挽衾（三指关羽）', 'room_name': '自己号单排上王者', 'room_url': 'https://live.kuaishou.com/u/3xia5w762iiisr2', 'game_name': '王者荣耀'}
+{'name': '嘟嘟传奇宝儿', 'room_name': '今晚统战之夜', 'room_url': 'https://live.kuaishou.com/u/3xgmztzx22wxjpw', 'game_name': '其他'}
+{'name': 'CF梦梦-最强女救世主', 'room_name': '11月加油', 'room_url': 'https://live.kuaishou.com/u/meng7722', 'game_name': '穿越火线'}
+{'name': 'CF—独秀秀', 'room_name': '土遁 · 土流壁', 'room_url': 'https://live.kuaishou.com/u/Hainan98', 'game_name': '穿越火线'}
+{'name': '传奇打金服（直播中）互', 'room_name': '1.85蟠龙三职业', 'room_url': 'https://live.kuaishou.com/u/3x75ubp4tsjhiqw', 'game_name': '梦幻西游'}
+{'name': '泪伊人（ 世界诸葛 ）', 'room_name': '诸葛亮', 'room_url': 'https://live.kuaishou.com/u/Chuqing520gunian', 'game_name': '王者荣耀'}
+{'name': '和平精英 澎叫兽☀️', 'room_name': 'giao狙', 'room_url': 'https://live.kuaishou.com/u/Pengjiaoshou666', 'game_name': '和平精英'}
+{'name': '夏 目哥哥🍃', 'room_name': '宝贝新区来玩么？', 'room_url': 'https://live.kuaishou.com/u/3xf64kscnr3prn6', 'game_name': '新天龙八部'}
+{'name': '传奇手游小庚', 'room_name': '盘古7-7人气光柱', 'room_url': 'https://live.kuaishou.com/u/Yujiageng021', 'game_name': '传奇世界'}
+{'name': '梦幻西游七仔（充5万）', 'room_name': '刚开新区手机电脑互通', 'room_url': 'https://live.kuaishou.com/u/xlj998899', 'game_name': '梦幻西游'}
+{'name': '手游7哥', 'room_name': '一剑九天 等你来战', 'room_url': 'https://live.kuaishou.com/u/3xefiezx6rxcubm', 'game_name': '其他'}
+{'name': '斗地主•若昂', 'room_name': '在上次五千万', 'room_url': 'https://live.kuaishou.com/u/xp2011116', 'game_name': '欢乐斗地主'}
+{'name': '和平精英六洋🐑自定义', 'room_name': '自定义信号枪模式', 'room_url': 'https://live.kuaishou.com/u/sb74110ba', 'game_name': '其他'}
+{'name': '大话时光机~刘德华', 'room_name': '白云西游 人气火爆', 'room_url': 'https://live.kuaishou.com/u/zjx777666', 'game_name': '新大话西游2'}
+{'name': '奶片儿🤡云顶之弈', 'room_name': '双排吗，疯狂摇人辣种', 'room_url': 'https://live.kuaishou.com/u/yikeruantang', 'game_name': 'lol云顶之弈'}
+{'name': '贪玩小乐乐66', 'room_name': '萌妹带你玩天龙', 'room_url': 'https://live.kuaishou.com/u/3xkwnutynncmbr9', 'game_name': '新天龙八部'}
+{'name': '传奇阿王（安心发展）', 'room_name': '二区搞起', 'room_url': 'https://live.kuaishou.com/u/azhe_7410', 'game_name': '其他'}
+{'name': '胖洋🌟和平精英', 'room_name': '还差100分', 'room_url': 'https://live.kuaishou.com/u/yd006666', 'game_name': '和平精英'}
+{'name': '万一💦️方舟', 'room_name': '战神万某人`', 'room_url': 'https://live.kuaishou.com/u/WanOne520', 'game_name': '方舟'}
+{'name': '手游传奇热血传奇灬浪仙', 'room_name': '全新冰雪重磅来袭', 'room_url': 'https://live.kuaishou.com/u/HBDDlangzi', 'game_name': '其他'}
+{'name': '💞冇爱゜08', 'room_name': '女汉子带你玩新区', 'room_url': 'https://live.kuaishou.com/u/3xqipp9a9aqn4cm', 'game_name': '梦幻西游'}
+{'name': '传奇打米_暴徒', 'room_name': '打米武神传', 'room_url': 'https://live.kuaishou.com/u/GTZ88888888', 'game_name': '其他'}
+{'name': 'Tianxiu天秀', 'room_name': 'Tianxiu天秀的直播间', 'room_url': 'https://live.kuaishou.com/u/wjXd13032035578', 'game_name': '其他'}
+{'name': '言辰☞和平精英（叮当）', 'room_name': '言辰挑战0杀吃鸡', 'room_url': 'https://live.kuaishou.com/u/fzw20030310', 'game_name': '和平精英'}
+{'name': '神途传奇手游／传奇冷风', 'room_name': '新区开了', 'room_url': 'https://live.kuaishou.com/u/tlbb6888', 'game_name': '神途'}
+{'name': 'TLBB:汐情落雪╱╱', 'room_name': 'TLBB:汐情落雪╱╱的直播间', 'room_url': 'https://live.kuaishou.com/u/gongzigeya', 'game_name': '新天龙八部'}
+{'name': '王者荣耀破空【国服黄忠】', 'room_name': '破空黄忠天秀刺客', 'room_url': 'https://live.kuaishou.com/u/li161373762', 'game_name': '王者荣耀'}
+{'name': '猫眯，玩服宝贝的踩', 'room_name': '全新防官方版本，人气300', 'room_url': 'https://live.kuaishou.com/u/liweiwei0827', 'game_name': '新天龙八部'}
+{'name': '热血传奇山胖子', 'room_name': '三胖子等你', 'room_url': 'https://live.kuaishou.com/u/sanpangzi188', 'game_name': '其他'}
+{'name': '传奇无名🇨🇳', 'room_name': '教你打金轻松一天300米', 'room_url': 'https://live.kuaishou.com/u/xing777775', 'game_name': '其他'}
+{'name': '手游基哥', 'room_name': '一剑九天 刚开一秒', 'room_url': 'https://live.kuaishou.com/u/teamky77', 'game_name': '其他'}
+{'name': '游戏奥特曼', 'room_name': '送天空了', 'room_url': 'https://live.kuaishou.com/u/xiaomo3377', 'game_name': 'DNF'}
+{'name': '游戏丶铁子', 'room_name': '新区刚开,1:2000', 'room_url': 'https://live.kuaishou.com/u/wendao147', 'game_name': '其他'}
+{'name': '王者荣耀小明明（超级皮）', 'room_name': '问题来了，我吃多少吨？', 'room_url': 'https://live.kuaishou.com/u/Xy7151131', 'game_name': '王者荣耀'}
+{'name': '悠悠神途-酷兜（互必回', 'room_name': '老铁，快来啊！', 'room_url': 'https://live.kuaishou.com/u/3xve5n78yd4bp9i', 'game_name': '其他'}
+{'name': '王者荣耀挽梦（李白）', 'room_name': '国服号45星~51', 'room_url': 'https://live.kuaishou.com/u/wm522512', 'game_name': '王者荣耀'}
+{'name': '梦幻（大魔王）', 'room_name': '招收兄弟', 'room_url': 'https://live.kuaishou.com/u/a6265859', 'game_name': '梦幻西游'}
+{'name': '可爱的丫啊', 'room_name': '升级送千元红包', 'room_url': 'https://live.kuaishou.com/u/3xnfckz6xdhrrt9', 'game_name': '新天龙八部'}
+{'name': '☜☞尛魔女☜☞', 'room_name': '有没有一起玩梦幻西游的呢', 'room_url': 'https://live.kuaishou.com/u/3xw9wzqdh25bkgy', 'game_name': '梦幻西游'}
+{'name': '王者荣耀妖夜《国服关羽》', 'room_name': '表弟来了，一打九', 'room_url': 'https://live.kuaishou.com/u/ahg00000', 'game_name': '王者荣耀'}
+{'name': '小白✨游戏主机', 'room_name': '秘密，邻居', 'room_url': 'https://live.kuaishou.com/u/I666-666', 'game_name': '主机新游'}
+{'name': 'DNF龙七（破1万）', 'room_name': '接普雷包界武器', 'room_url': 'https://live.kuaishou.com/u/liuyuhan897', 'game_name': 'DNF'}
+{'name': '无涯哥❤️巫妖', 'room_name': '无涯哥❤️巫妖的直播间', 'room_url': 'https://live.kuaishou.com/u/Ffhhffy566jgcf', 'game_name': '穿越火线'}
+{'name': '范有道的吃鸡之路…', 'room_name': '一瘸一拐进来了！', 'room_url': 'https://live.kuaishou.com/u/dagexingfan', 'game_name': '绝地求生'}
+{'name': '老可爱☀爆秀绝地求生', 'room_name': '发家致富~', 'room_url': 'https://live.kuaishou.com/u/laokeai1314', 'game_name': '绝地求生'}
+{'name': '张童童挺爱浪', 'room_name': '辉煌', 'room_url': 'https://live.kuaishou.com/u/3xbfxfkxz7tm6wm', 'game_name': '新大话西游2'}
+{'name': '夜袭CF网游', 'room_name': '全区 快速 上等级', 'room_url': 'https://live.kuaishou.com/u/3x9tqcuma2zsag6', 'game_name': '穿越火线'}
+{'name': '传奇+老湿', 'room_name': '冰雪版本手机电脑通用版本！', 'room_url': 'https://live.kuaishou.com/u/cqsak111', 'game_name': '其他'}
+{'name': '这是小Yo的小分身_', 'room_name': '快速上CF等级', 'room_url': 'https://live.kuaishou.com/u/3xmxsgrt2b8dje6', 'game_name': '穿越火线'}
+{'name': '云顶之奕金牌🏅讲师小伟', 'room_name': '云顶之亦竞猜拉满', 'room_url': 'https://live.kuaishou.com/u/P1254766771', 'game_name': 'lol云顶之弈'}
+{'name': '大话西游2小龙女', 'room_name': '经典大话西游2新区', 'room_url': 'https://live.kuaishou.com/u/3x23mcva8k6h9q4', 'game_name': '新大话西游2'}
+{'name': '灿哥CF网络b', 'room_name': '快速上等级', 'room_url': 'https://live.kuaishou.com/u/3x7js7mgbdj72q4', 'game_name': '穿越火线'}
+{'name': '盛世冰雪沐沐', 'room_name': '打米开始', 'room_url': 'https://live.kuaishou.com/u/anmeng91', 'game_name': '传奇世界'}
+{'name': 'cf善变网游', 'room_name': '快速CF元帅、紫金、金翅膀', 'room_url': 'https://live.kuaishou.com/u/3xvy8dtemjfd6k9', 'game_name': '穿越火线'}
+{'name': '灿哥CF网络、', 'room_name': '快速帮粉丝上等级', 'room_url': 'https://live.kuaishou.com/u/3x67ykpz9kdwi59', 'game_name': '穿越火线'}
+{'name': '王者荣耀小旧梦.天秀猴子', 'room_name': '单挑女神姐姐', 'room_url': 'https://live.kuaishou.com/u/wang17674768247', 'game_name': '王者荣耀'}
+{'name': '-小海（绝地求生）', 'room_name': '有位置 ....', 'room_url': 'https://live.kuaishou.com/u/3x5kqm9b6rnwav6', 'game_name': '绝地求生'}
+{'name': '一杯甜咖啡464', 'room_name': '复古60版本DNF', 'room_url': 'https://live.kuaishou.com/u/3xj22u9zweng2gs', 'game_name': 'DNF'}
+{'name': '梦幻西游-若兮', 'room_name': '来小哥哥一起玩', 'room_url': 'https://live.kuaishou.com/u/tongkeke626', 'game_name': '梦幻西游'}
+{'name': 'CF穿越火线-呗 闹', 'room_name': '黑吉辽招收骨灰玩家', 'room_url': 'https://live.kuaishou.com/u/Bnao888888', 'game_name': '穿越火线'}
+{'name': '都市之海尔车神', 'room_name': '早', 'room_url': 'https://live.kuaishou.com/u/My411111', 'game_name': 'QQ飞车'}
+{'name': '游戏大鼻子', 'room_name': 'dnf', 'room_url': 'https://live.kuaishou.com/u/LIU68888', 'game_name': 'DNF'}
+{'name': '白云西游吴彦祖', 'room_name': '2019最牛大话西游手游', 'room_url': 'https://live.kuaishou.com/u/eluosifangkuai66', 'game_name': '大话西游手游'}
+{'name': '当然是安妮喽', 'room_name': '新区冲级119奖1000米', 'room_url': 'https://live.kuaishou.com/u/zhans1225', 'game_name': '新天龙八部'}
+{'name': '王者荣耀小纯纯🔱', 'room_name': '打架去吧', 'room_url': 'https://live.kuaishou.com/u/CC1111155555', 'game_name': '王者荣耀'}
+{'name': '遇梦DNF怀旧版70复古', 'room_name': '遇梦DNF70复古强势来袭', 'room_url': 'https://live.kuaishou.com/u/gzq1781681234', 'game_name': 'DNF'}
+{'name': 'LoL-小辉辉', 'room_name': '峡谷之巅1600分盲僧', 'room_url': 'https://live.kuaishou.com/u/KZH16Jg1', 'game_name': '英雄联盟'}
+{'name': '舆论的社会', 'room_name': '舆论的社会的直播间', 'room_url': 'https://live.kuaishou.com/u/lin181881888', 'game_name': '其他'}
+{'name': '传奇少年【盛世冰雪】', 'room_name': '传奇少年【盛世冰雪】的直播间', 'room_url': 'https://live.kuaishou.com/u/oio77586', 'game_name': '其他'}
+{'name': '梦幻冰雪小樊互关', 'room_name': '梦幻冰雪', 'room_url': 'https://live.kuaishou.com/u/F19940121', 'game_name': '其他'}
+{'name': '沙尘战🦅传奇', 'room_name': '沙尘战🦅传奇的直播间', 'room_url': 'https://live.kuaishou.com/u/Fhhffh754gfdhit', 'game_name': '其他'}
+{'name': '✔传奇大刀✔（互关）', 'room_name': '玩会', 'room_url': 'https://live.kuaishou.com/u/jg588888', 'game_name': '其他'}
+{'name': '王者荣耀六金（指法李信）', 'room_name': '六金李信', 'room_url': 'https://live.kuaishou.com/u/liujin6667', 'game_name': '王者荣耀'}
+{'name': '传奇潇大大✨星科技集团', 'room_name': '1区小伙伴们跟上~', 'room_url': 'https://live.kuaishou.com/u/xx86245100', 'game_name': '其他'}
+{'name': '王者荣耀杨少（解说八戒）', 'room_name': '娱乐杨少来了', 'room_url': 'https://live.kuaishou.com/u/shaohe520', 'game_name': '王者荣耀'}
+{'name': '紫霄🔥小石头', 'room_name': '紫霄🔥小石头的直播间', 'room_url': 'https://live.kuaishou.com/u/3x4ep735kv5hbve', 'game_name': '新大话西游2'}
+{'name': '紫霄🐲龍龍', 'room_name': '谁来与我一起雄霸天下', 'room_url': 'https://live.kuaishou.com/u/l1l1O0O0l1zhu', 'game_name': '新大话西游2'}
+{'name': '二哥cf穿越火线', 'room_name': 'cf 快速 上 等级 微章', 'room_url': 'https://live.kuaishou.com/u/3xur442jizfyica', 'game_name': '穿越火线'}
+{'name': '戦忆95经典DNF', 'room_name': '上线点券时装送送送送', 'room_url': 'https://live.kuaishou.com/u/sf15555666765', 'game_name': 'DNF'}
+{'name': '70复古版本👆👆👆', 'room_name': '异界一件成套！来吧兄弟', 'room_url': 'https://live.kuaishou.com/u/liaixuan998', 'game_name': 'DNF'}
+{'name': '苍穹楚楚', 'room_name': '传奇搬砖开始咯！', 'room_url': 'https://live.kuaishou.com/u/Aichuchu927', 'game_name': '其他'}
+{'name': '大话西游2乱世一战成名', 'room_name': '聊天', 'room_url': 'https://live.kuaishou.com/u/gao521220', 'game_name': '新大话西游2'}
+{'name': '传奇北鼻（武神冰雪）互关', 'room_name': '今天二区。等待已开放', 'room_url': 'https://live.kuaishou.com/u/beibi2014444', 'game_name': '其他'}
+{'name': '直播传奇泡泡（互关）', 'room_name': '看我能打五百米', 'room_url': 'https://live.kuaishou.com/u/paopao5421', 'game_name': '其他'}
+{'name': '超哥（亚洲雷王）外国人', 'room_name': '今天刺激喽', 'room_url': 'https://live.kuaishou.com/u/PiDan666', 'game_name': '绝地求生'}
+{'name': 'DNF60复古看竹叶', 'room_name': '怀念60复古', 'room_url': 'https://live.kuaishou.com/u/qqun683562942', 'game_name': 'DNF'}
+{'name': '传奇小哥（盛世冰雪）', 'room_name': '盛世冰雪', 'room_url': 'https://live.kuaishou.com/u/xiaolin1993821', 'game_name': '其他'}
+{'name': '传奇世界龙之飞雪', 'room_name': '太难了。。。练级吧', 'room_url': 'https://live.kuaishou.com/u/dianhua18961190709', 'game_name': '传奇世界'}
+{'name': '梦幻西游（龙哥）', 'room_name': '新区来兄弟', 'room_url': 'https://live.kuaishou.com/u/3xjvtmsjmd844rq', 'game_name': '梦幻西游'}
+{'name': '梦幻西游小黄蜂💥', 'room_name': '太多了', 'room_url': 'https://live.kuaishou.com/u/3x2tm4h73spyh5g', 'game_name': '其他'}
+{'name': 'A小兮&', 'room_name': '九州天龙10天一个区', 'room_url': 'https://live.kuaishou.com/u/yan15131400078', 'game_name': '新天龙八部'}
+{'name': '大秦冰雪奥迪（互）', 'room_name': '激情开壳', 'room_url': 'https://live.kuaishou.com/u/a7981367', 'game_name': '其他'}
+{'name': '和平精英晨东是妍妍的', 'room_name': '努力上分中', 'room_url': 'https://live.kuaishou.com/u/w2551983600', 'game_name': '和平精英'}
+{'name': '传奇娟娟（盛世冰雪）', 'room_name': '传奇啦', 'room_url': 'https://live.kuaishou.com/u/3xg49qvva35vnni', 'game_name': '其他'}
+{'name': '零点🎖【称霸方舟】', 'room_name': '方舟最精彩的游戏直播', 'room_url': 'https://live.kuaishou.com/u/ld20008888', 'game_name': '方舟'}
+{'name': '『问安』', 'room_name': '手机电脑都能玩', 'room_url': 'https://live.kuaishou.com/u/3xky4thngi8xesu', 'game_name': '传奇世界'}
+{'name': '兵小梦、航拍直播第一人', 'room_name': '无人机户外空投😍', 'room_url': 'https://live.kuaishou.com/u/3xvksbmg56vg7ds', 'game_name': '户外'}
+{'name': '梦幻冰雪李逍遥', 'room_name': '新区沙巴克搞起', 'room_url': 'https://live.kuaishou.com/u/wmc52105', 'game_name': '其他'}
+{'name': '传奇清欢（江湖火龙）', 'room_name': '武帝集合', 'room_url': 'https://live.kuaishou.com/u/O3Oo3o030', 'game_name': '其他'}
+{'name': '梦幻悲剧哥。', 'room_name': '玩一会', 'room_url': 'https://live.kuaishou.com/u/3xg5e7gw5pysg7k', 'game_name': '梦幻西游'}
+{'name': '传奇手游王梓铭＠', 'room_name': '3D手游', 'room_url': 'https://live.kuaishou.com/u/a17614419348', 'game_name': '其他'}
+{'name': '杨可儿（互关）', 'room_name': '180火龙手游打金', 'room_url': 'https://live.kuaishou.com/u/wrjj11111', 'game_name': '其他'}
+{'name': '弑天弟弟', 'room_name': '十天一区冲级送奖', 'room_url': 'https://live.kuaishou.com/u/shitian24858', 'game_name': '新天龙八部'}
+{'name': '传奇手游端游互通', 'room_name': '传奇手游端游互通的直播间', 'room_url': 'https://live.kuaishou.com/u/wf0000001wf', 'game_name': '神途'}
+{'name': '媚儿13424', 'room_name': '冲级领点数', 'room_url': 'https://live.kuaishou.com/u/meier13424', 'game_name': '新天龙八部'}
+{'name': '_啊神', 'room_name': '_啊神的直播间', 'room_url': 'https://live.kuaishou.com/u/wll88008800', 'game_name': '其他'}
+{'name': '热血传奇强子（互）', 'room_name': '新区', 'room_url': 'https://live.kuaishou.com/u/Z15241304333', 'game_name': '其他'}
+{'name': '70级复古版本👆🏻', 'room_name': '体验服70复古上线送福利', 'room_url': 'https://live.kuaishou.com/u/3xb7iu2zv8sj6ai', 'game_name': 'DNF'}
+{'name': '传奇浅笑（良心主播）', 'room_name': '逐鹿扛米', 'room_url': 'https://live.kuaishou.com/u/l15241098475', 'game_name': '其他'}
+{'name': '互通手游小阿阳', 'room_name': '太好玩了！', 'room_url': 'https://live.kuaishou.com/u/q839391370', 'game_name': '梦幻西游'}
+{'name': 'DNF直播中送顶级SS套', 'room_name': '送SS套点券了', 'room_url': 'https://live.kuaishou.com/u/xudo666666', 'game_name': 'DNF'}
+{'name': 'User_1571791706010', 'room_name': '泰山泰山', 'room_url': 'https://live.kuaishou.com/u/3xwxxczbriuuc6q', 'game_name': '新大话西游2'}
+{'name': '白路🎖瞬喷教父S686', 'room_name': 'ss4 赛季无敌战神', 'room_url': 'https://live.kuaishou.com/u/hzyoye99', 'game_name': '和平精英'}
+{'name': '传奇小明（互关）🌹', 'room_name': '霸道冰雪打金', 'room_url': 'https://live.kuaishou.com/u/CxMh8888', 'game_name': '娱乐'}
+{'name': '大秦米菲', 'room_name': '大秦冰雪今晚沙巴克', 'room_url': 'https://live.kuaishou.com/u/3x6f4qmsz2t5mc9', 'game_name': '其他'}
+{'name': 'DNF江山直播中送天空套', 'room_name': '送SS套点券了', 'room_url': 'https://live.kuaishou.com/u/Liudabao', 'game_name': 'DNF'}
+{'name': '手游澡子哥', 'room_name': '新区刚开一秒 等你来战', 'room_url': 'https://live.kuaishou.com/u/3x54p8fbek9z292', 'game_name': '其他'}
+{'name': '梦幻女流氓丶', 'room_name': '新区一起玩', 'room_url': 'https://live.kuaishou.com/u/MHxy18697', 'game_name': '梦幻西游'}
+{'name': '传奇敏大大✨星科技集团', 'room_name': '星际新统战', 'room_url': 'https://live.kuaishou.com/u/mdd10025', 'game_name': '其他'}
+{'name': '传奇手游:小7带粉丝', 'room_name': '百因必有果.传奇手游来找我', 'room_url': 'https://live.kuaishou.com/u/yang13394498787', 'game_name': '主机新游'}
+{'name': '热血传奇吴争（日月传奇）', 'room_name': '日月传奇五年品牌服务器', 'room_url': 'https://live.kuaishou.com/u/X1779977', 'game_name': '其他'}
+{'name': '董先生☝🏻欧家', 'room_name': '升102奖励1000', 'room_url': 'https://live.kuaishou.com/u/dc971101', 'game_name': '新天龙八部'}
+{'name': '阿环儿.🌴', 'room_name': '10天一个区小姐姐带队', 'room_url': 'https://live.kuaishou.com/u/3xnknusysakkhbq', 'game_name': '新天龙八部'}
+{'name': '复古传奇手游', 'room_name': '复古传奇手游的直播间', 'room_url': 'https://live.kuaishou.com/u/youxin3975', 'game_name': '神途'}
+{'name': '北海✨王者荣耀英雄联盟', 'room_name': '国服第一孙悟空挑战我？', 'room_url': 'https://live.kuaishou.com/u/ksbeihai666', 'game_name': '王者荣耀'}
+{'name': '天龙八部:熊大', 'room_name': '我胡汉三回来了', 'room_url': 'https://live.kuaishou.com/u/xiongshu8888', 'game_name': '新天龙八部'}
