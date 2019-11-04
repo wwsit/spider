@@ -1,9 +1,9 @@
 # -*- coding: UTF-8 -*-
 # !/usr/bin/python
-import random
 
 from gevent import monkey
 
+import random
 monkey.patch_all()
 from  gevent.pool import Pool
 from queue import Queue
@@ -63,7 +63,6 @@ class KuaiShouSpider():
                 'normalize-space(.//div[@class="live-card-following-info"]//p[1]//span/text())')
             print(items)
             self.save_data(str(items))
-
 
     def execute_task(self):
         """执行函数"""
