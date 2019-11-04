@@ -4,6 +4,13 @@
     main.py   爬虫程序
     xxx.txt   爬取到的数据(未进行清洗)
     xxx.csv   通过pandas进行清洗 后的数据,可以用excel格式打开,也可以导入Mysql
+    
+#### 亚马逊 手机 爬虫
+    使用scrapy框架进行爬取
+    爬取 手机名称 、价格、手机详情页的url
+    通过修改piplines.py 将数据进行保存
+    通过middleware.py 添加随机UA和IP代理池  进行反爬
+    使用logging模块编写监控程序进行爬虫监控，并将日志输出到log文件
 
 #### ebay手机 爬虫
     
