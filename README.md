@@ -3,7 +3,7 @@
 #### 文件说明
     main.py   爬虫程序
     xxx.txt   爬取到的数据(未进行清洗)
-    xxx.csv   清洗后的数据,可以用excel格式打开,也可以导入Mysql
+    xxx.csv   通过pandas进行清洗 后的数据,可以用excel格式打开,也可以导入Mysql
 
 #### ebay手机 爬虫
     
