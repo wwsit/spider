@@ -22,7 +22,7 @@ class MobileSpider(scrapy.Spider):
         logger.info("开始运行时间：%s" % start_time)  # 使用日志记录起始运行时间
         self.save("开始运行时间：%s" % start_time)
 
-    #
+   
     def end_times(self, start_time):
         """结束时间"""
         stop = datetime.now()  # 结束时间
@@ -31,7 +31,7 @@ class MobileSpider(scrapy.Spider):
         self.save("结束运行时间：%s" % stop)
         self.save("耗时：%.2f" % (stop - start_time).total_seconds())
 
-    #
+
     def save(self, content):
         """保存内容"""
         print(type(content))
