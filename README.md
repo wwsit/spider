@@ -12,6 +12,14 @@
     通过middleware.py 添加随机UA和IP代理池  进行反爬
     使用logging模块编写监控程序进行爬虫监控，并将日志输出到log文件
 
+#### 携程  爬虫
+     使用scrapy框架进行爬取
+     爬取 景点名,排名,评分,评价数,价格,地址,详情页url
+     通过修改piplines.py 将数据进行保存
+     通过middleware.py 添加随机UA和IP代理池  进行反爬
+     xiecheng.csv     删除缺省值
+     xiecheng2.csv    保留缺省值
+
 #### ebay手机 爬虫
     
     使用scrapy框架进行爬取
