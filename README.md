@@ -3,7 +3,7 @@
 #### 文件说明
     main.py   爬虫程序
     xxx.txt   爬取到的数据(未进行清洗)
-    xxx.csv   通过pandas进行清洗 后的数据,可以用excel格式打开,也可以导入Mysql
+    xxx.csv   通过pandas进行清洗 后的数据,方便阅读,可以用excel格式打开,也可以导入Mysql
     
 #### 亚马逊 最畅销的新图书 爬虫
     使用scrapy框架进行爬取
@@ -14,7 +14,7 @@
 
 #### 携程  爬虫
      使用scrapy框架进行爬取
-     爬取 景点名,排名,评分,评价数,价格,地址,详情页url
+     爬取深圳 景点名,排名,评分,评价数,价格,地址,详情页url
      通过修改piplines.py 将数据进行保存
      通过middleware.py 添加随机UA和IP代理池  进行反爬
      xiecheng.csv     删除缺省值
